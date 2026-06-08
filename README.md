@@ -10,13 +10,11 @@ Aplicación móvil desarrollada en Flutter que presenta los principales sitios t
 - [Características](#características)
 - [Capturas de pantalla](#capturas-de-pantalla)
 - [Requisitos previos](#requisitos-previos)
-- [Instalación](#instalación)
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Arquitectura y componentes](#arquitectura-y-componentes)
 - [Sitios turísticos incluidos](#sitios-turísticos-incluidos)
 - [Dependencias](#dependencias)
 - [Configuración de Android](#configuración-de-android)
-- [Cómo contribuir](#cómo-contribuir)
 
 ---
 
